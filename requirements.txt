@@ -7,4 +7,5 @@ tensorrt==8.6.0
 keras==2.12.0
 tensorflow==2.12.0
 tf-nightly==2.12.0.dev20230203
-CUDA-driver==525.85.12
+cuda-driver==525.85.12
+protobuf!=4.21.0
