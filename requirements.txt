@@ -6,3 +6,5 @@ scikit-learn==1.2.2
 tensorrt==8.6.0
 keras==2.12.0
 tensorflow==2.12.0
+tf-nightly==2.12.0-dev2023203
+CUDA-driver==525.85.12
