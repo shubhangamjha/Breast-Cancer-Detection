@@ -4,7 +4,7 @@ from streamlit_option_menu import option_menu
 import tensorrt
 from keras import models
 from keras.engine.functional import Functional
-import tensorflow-cpu as tf
+import tensorflow as tf
 
 
 
